@@ -16,7 +16,7 @@ color_map = {
     "Blue": 120,
     "Yellow": 30,
     "Purple": 150,
-    "Black": 0  
+    "Black": 0 
 }
 
 def apply_filter(image, selected_color):
